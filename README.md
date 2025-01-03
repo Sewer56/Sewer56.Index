@@ -1,3 +1,3 @@
 # Sewer56.Index
 
-[Visit the Index](http://sewer56.dev/Sewer56.Index/)
+Moved to [sewer56.dev](https://sewer56.dev)
